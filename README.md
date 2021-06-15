@@ -80,7 +80,7 @@ number of jobs should not exceed the number of cores available.
 
 The [qa.php.net](https://qa.php.net) site provides more detailed info about
 testing and quality assurance.
-
+<!--
 ## Installing PHP built from source
 
 After a successful build (and test), PHP may be installed with:
@@ -139,4 +139,4 @@ contribute:
 ## Credits
 
 For the list of people who've put work into PHP, please see the
-[PHP credits page](https://php.net/credits.php).
+[PHP credits page](https://php.net/credits.php).-->
